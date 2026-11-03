@@ -1,0 +1,7 @@
+numpy
+torch
+netCDF4
+xarray
+psutil
+scipy
+scikit-learn
